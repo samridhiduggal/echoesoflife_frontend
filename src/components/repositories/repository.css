@@ -1,0 +1,48 @@
+.RepositoryCard {
+    padding: 50px 0;
+  }
+  .RepositoryCard .items {
+    background-color:#fff;
+    padding: 30px;
+    text-align: center;
+  }
+  .RepositoryCard img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .RepositoryCard .text {
+    margin-left: 15px;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+  }
+  .RepositoryCard .text h3 {
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 45px;
+  }
+  .RepositoryCard .details .dimg img {
+    width: 100%;
+    height: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }
+  .RepositoryCard .price {
+    margin: 30px 0;
+    padding: 10px;
+  }
+  .RepositoryCard h5 {
+    font-weight: 500;
+    color: black;
+  }
+  .RepositoryCard .price p{
+    color: black;
+    text-align: left;
+    line-height: 30px;
+  }
+  @media screen and (max-width: 960px) {
+    
+  }
+  
